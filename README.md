@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bem vindo(a) ao meu perfil
 
-<!--
-**gitdolci/gitdolci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou Robélia S. Ikarimoto
 
-Here are some ideas to get you started:
+## Meus hobbies
+ - Ler
+ - Cozinhar
+ - Assistir filmes e séries
+ - Estudar sobre investimentos, desenvolvimento pessoal, tecnologia, produtividade, etc
+ - Cozinhar
+ 
+ ##Atualmente estudando
+  - Git e GitHub
+  - Previdência Privada
+  - Criptomoedas
+  - Fundos Imobiliários
+  - Expansão da Consciência
+  
+  ## Contatos
+   - GitHub gitdolci
+   - Instagram @investidolci
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

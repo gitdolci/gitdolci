@@ -22,4 +22,6 @@ Olá, eu sou Robélia S. Ikarimoto
   ## Contatos
    - GitHub @gitdolci
    - Instagram @investidolci
+   - Linkedin @robélia-s-ikarimoto
+
 

@@ -17,6 +17,6 @@ Olá, eu sou Robélia S. Ikarimoto
   - Expansão da Consciência
   
   ## Contatos
-   - GitHub gitdolci
+   - GitHub @gitdolci
    - Instagram @investidolci
 

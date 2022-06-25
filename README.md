@@ -1,7 +1,8 @@
 # Bem vindo(a) ao meu perfil
 
 Olá, eu sou Robélia S. Ikarimoto
-![Bom Dia Motivado Divertido Branco Amarelo Preto Story (1)](https://user-images.githubusercontent.com/108180176/175773790-4a3f85ff-3d3e-4a10-8336-b241c1312a65.png)
+
+![Bom Dia Motivado Divertido Branco Amarelo Preto Story (2)](https://user-images.githubusercontent.com/108180176/175773856-d8848cb7-631f-4c40-a158-ca3db1e23498.png)
 
 
 ## Meus hobbies
